@@ -1,6 +1,6 @@
 ![1717777555439](https://github.com/Developer200010/Developer200010/assets/155469227/634f0bc4-fe0a-44ac-8555-1ee174af2cf4)
 <h1 align="center">Hi 👋, I'm Chandan Vishwakarma</h1>
-<h3 align="center">A passionate frontend developer from india</h3>
+<h3 align="center">A passionate frontend and backend developer from india</h3>
 
 - 📫 How to reach me **chandanvishw11002@gmail.com**
 
