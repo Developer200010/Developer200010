@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandan Vishwakarma</h1>
-<h3 align="center">🚀 Fullstack Enthusiast | Anime Fan | AI Explorer from India</h3>
+<h3 align="center">🚀 Fullstack Enthusiast | Software Developer @Nexes | AI Explorer from India</h3>
 
 <div align="center">
 
