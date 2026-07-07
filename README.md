@@ -22,7 +22,6 @@
 - 🌱 Always learning **AI tools** and **cloud technologies**
 - 🤝 Eager to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js, databases**
-- 🕹️ Fun fact: I love watching Anime and experimenting with new AI tools
 
 </details>
 
@@ -77,13 +76,6 @@
 </p>
 
 ---
-
-<details>
-<summary><b>💡 Fun Fact</b></summary>
-
-> “I like to watch Anime and learn new AI tools.”
-
-</details>
 
 ---
 
